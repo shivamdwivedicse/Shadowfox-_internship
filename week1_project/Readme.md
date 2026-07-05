@@ -14,7 +14,7 @@ Documentation of **Matplotlib** and **Seaborn**
 
 ---
 
-# 📖 Project Objective
+## 📖 Project Objective
 
 The objective of this project is to understand two of Python's most popular visualization libraries, Matplotlib and Seaborn.
 
@@ -22,14 +22,14 @@ This documentation explains various graph types, their implementation, practical
 
 ---
 
-# 📚 Libraries Covered
+## 📚 Libraries Covered
 
 - Matplotlib
 - Seaborn
 
 ---
 
-# 📂 Dataset
+## 📂 Dataset
 
 **Dataset Used:** Iris Dataset
 
@@ -43,9 +43,9 @@ Features:
 
 ---
 
-# 📊 Graphs Covered
+## 📊 Graphs Covered
 
-## Matplotlib
+### Matplotlib
 
 - Line Plot
 - Scatter Plot
@@ -58,9 +58,7 @@ Features:
 - Subplots
 - Save Figure
 
----
-
-## Seaborn
+### Seaborn
 
 - Scatter Plot
 - Line Plot
@@ -74,21 +72,23 @@ Features:
 
 ---
 
-# 📸 Output Gallery
+## 📸 Output Gallery
 
 <!-- IMAGE GRID -->
 
 | Graph | Preview |
 |--------|---------|
-| Line Plot |<img src="images/Line plot.png" width="400"> |
-| Scatter Plot |<img src="images/Scatter plot.png" width="400">  |
+| Line Plot | <img src="images/Line Plot.png" width="400"> |
+| Scatter Plot | <img src="images/Scatter Plot.png" width="400"> |
+| Area Plot | <img src="images/Area Plot.png" width="400"> |
+| Pie Chart | <img src="images/Pie chart.png" width="400"> |
 | Heatmap | <img src="images/Heatmap.png" width="400"> |
-| Pair Plot |<img src="images/Pair plot.png" width="400">  |
+| Pair Plot | <img src="images/Pair Plot.png" width="400"> |
 | Histogram | <img src="images/Histogram.png" width="400"> |
 
 ---
 
-# ⚙ Technologies Used
+## ⚙ Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -99,7 +99,7 @@ Features:
 
 ---
 
-# 📈 Key Learning Outcomes
+## 📈 Key Learning Outcomes
 
 - Data Visualization Fundamentals
 - Statistical Visualization
@@ -109,11 +109,10 @@ Features:
 
 ---
 
-# 🚀 Project Structure
+## 🚀 Project Structure
 
 ```text
 Week-1-Visualization-Documentation/
-
 │
 ├── Visualization_Documentation.ipynb
 ├── Visualization_Documentation.pdf
@@ -126,15 +125,12 @@ Week-1-Visualization-Documentation/
 
 ---
 
-# 📚 References
+## 📚 References
 
-- https://matplotlib.org/
-
-- https://seaborn.pydata.org/
-
-- https://numpy.org/
-
-- https://pandas.pydata.org/
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [NumPy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
 
 ---
 
