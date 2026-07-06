@@ -2,6 +2,11 @@
 
 # 📊 ShadowFox Data Science Internship
 
+<p align="center">
+<img src="images/logo.png" width="180">
+</p>
+
+
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
