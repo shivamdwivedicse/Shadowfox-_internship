@@ -3,7 +3,7 @@
 # 📊 ShadowFox Data Science Internship
 
 <p align="center">
-<img src="images/logo.png" width="180">
+<img src="week1_project/images/logo.png" width="180">
 </p>
 
 
